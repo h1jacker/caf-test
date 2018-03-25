@@ -15,6 +15,7 @@
 #
 
 include $(srctree)/arch/arm64/boot/dts/Makefile
+include $(srctree)/arch/arm64/boot/dts/xiaomi/Makefile
 
 targets := Image Image.gz
 
